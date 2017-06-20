@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__31-[H_HomeViewController getData]_block_invoke:H_HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.myDataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[H_HomeViewController tableView:cellForRowAtIndexPath:]:H_HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mySplicArray">
+            </PersistentString>
+            <PersistentString
+               value = "self.myDataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
